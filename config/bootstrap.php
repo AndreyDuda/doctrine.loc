@@ -11,8 +11,9 @@ $connection = array(
     'dbname'   => 'doctrine',
     'user'     => 'doctrine',
     'password' => 'doctrine',
-    'host'     => 'mysql',
-    'driver'   => 'pdo_mysql'
+    'host'     => '127.0.0.1',
+    'driver'   => 'pdo_mysql',
+    'port'     => '3306'
 );
 
 $entityManager = EntityManager::create($connection, $config);
