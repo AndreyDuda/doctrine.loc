@@ -1,8 +1,7 @@
 {
   "require": {
-    "doctrine/orm": "2.6.*",
-    "symfony/yaml": "2.*",
-    "doctrine/annotations": "^1.6"
+    "doctrine/orm": "^2.6.2",
+    "symfony/yaml": "2.*"
   },
   "autoload": {
     "psr-0": {"": "src/"}

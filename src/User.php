@@ -6,15 +6,15 @@
 
 class User
 {
-    /** @var integer
-     *
-     * @ORM\Column(name="id", type="integer")
-     * @ORM\Id
-     * @ORM\GeneratedValue(strategy="AUTO")**/
+    /** @Id @Column(type="integer") @GeneratedValue **/
     protected $id;
-    /** @Column(type="string") **/
+    /**
+     * @Column(type="string")
+     */
     protected $name;
-    /** @Column(type="string") **/
+    /**
+     * @Column(type="string")
+     */
     protected $email;
 
     public function setName($name)
