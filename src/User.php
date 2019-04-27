@@ -16,6 +16,10 @@ class User
      * @Column(type="string")
      */
     protected $email;
+    /**
+     * @Column(type="string")
+     */
+    protected $password;
 
     public function setName($name)
     {
@@ -25,6 +29,11 @@ class User
     public function setEmail($email)
     {
         $this->name = $email;
+    }
+
+    public function setPassword($password)
+    {
+        $this->password = $password;
     }
 
     public function getName()
