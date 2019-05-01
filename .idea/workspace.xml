@@ -1,58 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa264e51-6311-41b4-9953-a511173b266c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/bashsupport_project.xml" afterDir="false" />
+    <list default="true" id="aa264e51-6311-41b4-9953-a511173b266c" name="Default Changelist" comment="add symfonynsd fsdf sd">
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/create_user.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker/nginx/default.conf" beforeDir="false" afterPath="$PROJECT_DIR$/docker/nginx/default.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/.idea/symfony.loc.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/_docker/nginx.docker" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/_docker/nginx/default.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/_docker/php-cli.docker" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/_docker/php-fpm.docker" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/_docker/php/php.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/app/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/app/AppCache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/app/AppKernel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/app/Resources/views/base.html.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/app/Resources/views/default/index.html.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/app/config/config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/app/config/config_dev.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/app/config/config_prod.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/app/config/config_test.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/app/config/parameters.yml.dist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/app/config/routing.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/app/config/routing_dev.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/app/config/security.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/app/config/services.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/bin/console" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/bin/symfony_requirements" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/composer.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/phpunit.xml.dist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/src/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/src/AppBundle/AppBundle.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/src/AppBundle/Controller/DefaultController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/tests/AppBundle/Controller/DefaultControllerTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/var/SymfonyRequirements.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/var/cache/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/var/logs/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/var/sessions/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/web/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/web/app.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/web/app_dev.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/web/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/web/config.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/web/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.loc/web/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/config.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,25 +22,29 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/bootstrap.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-18">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docker/nginx/default.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+            <state relative-caret-position="384">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>127.0.0.1</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -94,6 +54,8 @@
       <list>
         <option value="$PROJECT_DIR$/create_user.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/config/config_dev.yml" />
+        <option value="$PROJECT_DIR$/web/config.php" />
         <option value="$PROJECT_DIR$/docker/nginx/default.conf" />
       </list>
     </option>
@@ -151,6 +113,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,20 +121,24 @@
               <item name="doctrine.loc" type="b2602c69:ProjectViewProjectNode" />
               <item name="doctrine.loc" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="doctrine.loc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doctrine.loc" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../symfony.loc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="BashSupport" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -197,7 +164,8 @@
       <updated>1556658645184</updated>
       <workItem from="1556658647443" duration="1810000" />
       <workItem from="1556713092177" duration="883000" />
-      <workItem from="1556714205476" duration="1853000" />
+      <workItem from="1556714205476" duration="3352000" />
+      <workItem from="1556718546357" duration="2728000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1556658708492</created>
@@ -217,12 +185,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4546000" />
+    <option name="totallyTimeSpent" value="8773000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="207" width="1600" height="873" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1988417" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2014157" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -267,12 +235,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/bootstrap.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/.htaccess">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -281,10 +243,70 @@
         <state relative-caret-position="-643" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-315" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config_dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config_prod.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config_test.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="40" column="52" lean-forward="true" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/security.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/services.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing_dev.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml.dist">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/nginx.docker">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docker/nginx/default.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+        <state relative-caret-position="384">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
