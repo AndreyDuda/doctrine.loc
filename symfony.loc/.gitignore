@@ -16,5 +16,4 @@
 /vendor/
 /web/bundles/
 /docker
-/_docker
 _docker-compose.yml
